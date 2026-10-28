@@ -1,5 +1,5 @@
-# Important:
-This version has been edited to account for llama.cpp returning a different format to what this package expects by default and was only made to work with one specific project. All the changes were performed by Claude AI. Use at your own risk.
+# ❗Important:
+**This version has been edited to account for llama.cpp returning a different format to what this package expects by default and was only made to work with one specific project. All the changes were performed by Claude AI. Use at your own risk.**
 
 # Delphi OpenAI API
 
