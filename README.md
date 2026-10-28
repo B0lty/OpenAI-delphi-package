@@ -1,3 +1,5 @@
+# Important:
+This version has been edited to account for llama.cpp returning a different format to what this package expects by default. All the changes were performed by Claude AI. Use at your own risk.
 # Delphi OpenAI API
 
 ![logo](https://github.com/HemulGM/DelphiOpenAI/blob/main/openai+delphi.png?raw=true)
